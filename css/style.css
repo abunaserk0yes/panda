@@ -1,0 +1,50 @@
+h1,h2,h3,h4,h5,h6{
+    color:white;
+}
+:focus{
+    outline:0;
+}
+.btn{
+    border:0;
+    color:black;
+    font-weight: bold;
+}
+.my-nav img{
+    height:80px;
+    width:auto;
+}
+.nav-item-section{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+} 
+.nav-item-section .nav-item .nav-link{
+    color:black;
+    font-size:18px;
+    padding-left:20px;
+    font-weight:bold;
+}
+.my-carousel{
+    background-image:linear-gradient(#f88470e8,salmon);
+    padding:0 40px;
+}
+.my-carousel img{
+    width: auto;;
+    height:450px;
+}
+
+.gutter img{
+    width:auto;
+    height:100px;
+}
+.my-card-img{
+    width:auto;
+    height: 300px;
+}  
+.panda-card{
+    border:0;
+} 
+.card-footer-button{
+    border:0;
+    background-color:white;
+} 

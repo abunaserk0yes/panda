@@ -1,0 +1,10 @@
+@media screen and (max-width:769px){
+    .my-card-img{
+        width:auto;
+        height: auto;
+    }  
+    .gutter img{
+        width:auto;
+        height:65px;
+    }
+}
